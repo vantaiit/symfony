@@ -1,0 +1,20 @@
+{% extends 'MYSiteBundle::base.html.twig' %}
+{% block plugin_styles %}
+
+{% endblock %}
+
+{% block body %}
+
+    {% block model %}{% endblock %}
+
+    {% block wrapper %}
+        {% block bg_top %}{% endblock %}
+        {% block header_wrap %}{% endblock %}
+        {% block main_wrapper %}{% endblock %}
+        {% block footer_wrapper %}{% endblock %}
+
+    {% endblock%}
+
+    {% block end_html_template %}{% endblock %}
+
+{% endblock %}
