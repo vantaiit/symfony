@@ -1,5 +1,19 @@
+my_service:
+    resource: "@MYServiceBundle/Controller/"
+    type:     annotation
+    prefix:   /service
+
+my_admin:
+    resource: "@MYAdminBundle/Controller/"
+    type:     annotation
+    prefix:   /admin
+
 my_site:
     resource: "@MYSiteBundle/Controller/"
     type:     annotation
     prefix:   /
 
+my_entity:
+    resource: "@MYEntityBundle/Controller/"
+    type:     annotation
+    prefix:   /

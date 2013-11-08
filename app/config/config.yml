@@ -15,16 +15,21 @@ framework:
     templating:
         engines: ['twig']
         #assets_version: SomeVersionScheme
+        assets_base_urls: %assets_base_urls%
     default_locale:  "%locale%"
     trusted_proxies: ~
-    session:         ~
+    session:
+        save_path: "%kernel.root_dir%/cache/sessions"
     fragments:       ~
-    http_method_override: true
 
 # Twig Configuration
 twig:
     debug:            %kernel.debug%
     strict_variables: %kernel.debug%
+    globals:
+        FACEBOOK_APP_ID:        %facebook_app_id%
+        FACEBOOK_PERMISSIONS:   %facebook_permissions%
+        ASSETS_VERSION:         %assets_version%
 
 # Assetic Configuration
 assetic:
@@ -64,3 +69,17 @@ swiftmailer:
     username:  %mailer_user%
     password:  %mailer_password%
     spool:     { type: memory }
+
+fos_user:
+    db_driver: orm # other valid values are 'mongodb', 'couchdb' and 'propel'
+    firewall_name: secured_area
+    user_class: MY\EntityBundle\Entity\User
+
+fos_facebook:
+  alias:  facebook
+  app_id: %facebook_app_id%
+  secret: %facebook_secret%
+  cookie: true
+  permissions: %facebook_permissions%
+# Image Resize
+gregwar_image: ~

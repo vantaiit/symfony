@@ -13,3 +13,9 @@ parameters:
 
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
+    facebook_app_id: 677153332301592
+    facebook_secret: aac11a6cfe5f57cf08fa0d938d029310
+    facebook_permissions: [email]
+    assets_version: 123456
+    assets_base_urls:
+        http: ['/public/']

@@ -14,6 +14,14 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        return array('name' => "");
+        return array();
+    }
+    /**
+     * @Route("/landing", name="_landing")
+     * @Template()
+     */
+    public function landingAction()
+    {
+        return array();
     }
 }
