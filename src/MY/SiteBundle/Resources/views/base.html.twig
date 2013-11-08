@@ -1,0 +1,69 @@
+{% set _route = app.request.attributes.get('_route') %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}Flintter{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="">
+    <meta property="fb:app_id" content="{{ FACEBOOK_APP_ID }}" />
+    {% block head_meta %}{% endblock %}
+    <!--basic styles-->
+
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href="{{ asset('assets/plugins/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/plugins/bootstrap/css/bootstrap-responsive.min.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/css/reset.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/css/style-metro.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/css/style.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/plugins/fancybox/source/jquery.fancybox.css')}}" rel="stylesheet" />
+    <link href="{{ asset('assets/plugins/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/plugins/bxslider/jquery.bxslider.css')}}" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ asset('assets/plugins/revolution_slider/css/rs-style.css')}}" media="screen">
+    <link rel="stylesheet" href="{{ asset('assets/plugins/revolution_slider/rs-plugin/css/settings.css')}}" media="screen">
+    <link href="{{ asset('assets/css/style-responsive.css')}}" rel="stylesheet" type="text/css"/>
+    <!-- END GLOBAL MANDATORY STYLES -->
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
+
+    <!--page specific plugin styles-->
+    {% block specific_plugin_styles %}{% endblock %}
+
+    <!--site styles-->
+    <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet" />
+    {% block site_styles %}{% endblock %}
+    <!--inline styles if any-->
+    {% block inline_styles %}{% endblock %}
+
+    <script type="text/javascript">
+        var SITE = {
+            FACEBOOK_APP_ID: '{{ FACEBOOK_APP_ID }}',
+            FACEBOOK_SCOPE: '{{ FACEBOOK_PERMISSIONS|join(',') }}',
+            BASE_URL: '{{ app.request.getBaseUrl() }}',
+            BASE_PATH: '{{ app.request.getBasePath() }}',
+            ENV : '{{ app.environment }}',
+            VERSION: '{{ ASSETS_VERSION }}'
+        };
+        var USER = {{ app.user|json_encode()|raw }};
+    </script>
+
+    {% block head_javascripts %}{% endblock %}
+</head>
+<body>
+{% block body %}{% endblock %}
+{% block script_templates %}{% endblock %}
+
+{% set mainjs = app.environment == 'dev' ? 'assets/js/apps/main/main' : 'assets/js/apps/main/main' %}
+<script data-main="{{ asset(mainjs) }}" src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.5/require.min.js"></script>
+<script type="text/javascript">
+    var requirejsBaseUrl = '{{ asset('assets/js/vendor') }}';
+</script>
+<!--page specific plugin scripts-->
+{% block plugin_scripts %}{% endblock %}
+<!--ace scripts-->
+
+
+<!--inline scripts related to this page-->
+{% block inline_scripts %}{% endblock %}
+</body>
+</html>
