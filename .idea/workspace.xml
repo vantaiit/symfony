@@ -1,45 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\UPGRADE-2.2.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\UPGRADE-2.3.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\UPGRADE.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/web/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppCache.php" afterPath="$PROJECT_DIR$/app/AppCache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/DependencyInjection/Configuration.php" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/DependencyInjection/Configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/Tests/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/MYSiteBundle.php" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/MYSiteBundle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/DependencyInjection/MYSiteExtension.php" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/DependencyInjection/MYSiteExtension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app.php" afterPath="$PROJECT_DIR$/web/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app_dev.php" afterPath="$PROJECT_DIR$/web/app_dev.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/autoload.php" afterPath="$PROJECT_DIR$/app/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_dev.yml" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_prod.yml" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_test.yml" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/console" afterPath="$PROJECT_DIR$/app/console" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig" />
+    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;assets/js/apps/main/main.js&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/utility/Spirit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/components/autosubmit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/customized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/components/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/components/facebooksdk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/html/index-chat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/jquery/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/components/make-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/app/utility/uploader.js" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\FacebookSDK.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\Homepage.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\Welcome.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\module\content\events.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\utility\Spirit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\backbone\backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\bootstrap\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\colorbox-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\jquery.fileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\jquery.mCustomScrollbar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\jquery.ui.widget.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\rangy\rangy-core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\async.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\depend.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\font.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\goog.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\image.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\json.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\mdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\noext.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\propertyParser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\plugins\text.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\require.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\requirejs\require.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\underscore\underscore-min.js" afterPath="" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\binding\Editor.js" afterPath="$PROJECT_DIR$/web/public/assets/js/app/binding/Editor.js" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\components\content\editable.js" afterPath="$PROJECT_DIR$/web/public/assets/js/app/components/content/editable.js" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\components\overlay.js" afterPath="$PROJECT_DIR$/web/public/assets/js/app/components/overlay.js" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\apps\main\application\shared\events.js" afterPath="$PROJECT_DIR$/web/public/assets/js/app/shared/events.js" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\js\vendor\jquery\jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/web/public/assets/js/app/jquery/jquery.mousewheel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/challenge-detail.html" afterPath="$PROJECT_DIR$/web/public/html/challenge-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/challenge.html" afterPath="$PROJECT_DIR$/web/public/html/challenge.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/explore-topic.html" afterPath="$PROJECT_DIR$/web/public/html/explore-topic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/explore.html" afterPath="$PROJECT_DIR$/web/public/html/explore.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/index.html" afterPath="$PROJECT_DIR$/web/public/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/intro.html" afterPath="$PROJECT_DIR$/web/public/html/intro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/assets/css/landing.css" afterPath="$PROJECT_DIR$/web/public/assets/css/landing.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/landing.html" afterPath="$PROJECT_DIR$/web/public/html/landing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/assets/js/apps/main/main.js" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml.dist" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/phpunit.xml.dist" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/robots.txt" afterPath="$PROJECT_DIR$/web/robots.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing_dev.yml" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/config/services.xml" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/config/services.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/symfony.iml" afterPath="$PROJECT_DIR$/.idea/symfony.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/profile-ama.html" afterPath="$PROJECT_DIR$/web/public/html/profile-ama.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/html/profile.html" afterPath="$PROJECT_DIR$/web/public/html/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/assets/css/style.css" afterPath="$PROJECT_DIR$/web/public/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony.iws" />
@@ -55,7 +78,7 @@
     <file path="/home.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383230434827" ignored="false" />
     <file path="/back-to-top.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383229072619" ignored="false" />
     <file path="/index.html" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383240864699" ignored="false" />
-    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383909353398" ignored="false" />
+    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383910032162" ignored="false" />
     <file path="/a.dummy" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383908497738" ignored="false" />
     <file path="/dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383909020439" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +103,7 @@
       <file leaf-file-name="layout.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="473" selection-end="473" vertical-scroll-proportion="0.675841">
+            <state line="14" column="28" selection-start="545" selection-end="545" vertical-scroll-proportion="0.4576923">
               <folding />
             </state>
           </provider>
@@ -221,118 +244,6 @@
               <option name="myItemId" value="MY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -345,24 +256,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -463,11 +356,16 @@
       <created>1383143756279</created>
       <updated>1383143756279</updated>
     </task>
+    <task id="LOCAL-00001" summary="update  flinter">
+      <created>1383909452401</created>
+      <updated>1383909452401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -481,7 +379,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -652,7 +550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="473" selection-end="473" vertical-scroll-proportion="0.675841">
+        <state line="14" column="28" selection-start="545" selection-end="545" vertical-scroll-proportion="0.4576923">
           <folding />
         </state>
       </provider>
