@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="update layout: add assets">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\symfony.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\.idea\workspace.xml" afterPath="" />
+    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +18,7 @@
     <file path="/home.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383230434827" ignored="false" />
     <file path="/back-to-top.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383229072619" ignored="false" />
     <file path="/index.html" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383240864699" ignored="false" />
-    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383927884378" ignored="false" />
+    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383927928394" ignored="false" />
     <file path="/a.dummy" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383908497738" ignored="false" />
     <file path="/dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383909020439" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,7 +52,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.33452594">
+            <state line="6" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.1824687">
               <folding />
             </state>
           </provider>
@@ -301,7 +295,11 @@
       <created>1383927849948</created>
       <updated>1383927849948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update layout: add assets">
+      <created>1383927940646</created>
+      <updated>1383927940646</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -483,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.33452594">
+        <state line="6" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.1824687">
           <folding />
         </state>
       </provider>

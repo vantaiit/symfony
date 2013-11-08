@@ -8,4 +8,5 @@
 /app/cache
 /web/bundles
 /.idea
+/.idea/workspace.xml
 composer.lock
