@@ -1,0 +1,22 @@
+<form action="{{ path('_user_profile_edit') }}" method="post" id="targetForm" enctype="multipart/form-data">
+    {{ form_label(form.name) }}
+    {{ form_widget(form.name) }}<br>
+    {{ form_label(form.password) }}<br>
+    {{ form_widget(form.password) }}<br>
+    {{ form_label(form.birthday) }}<br>
+    {{ form_widget(form.birthday) }}<br>
+    {{ form_label(form.email) }}<br>
+    {{ form_widget(form.email) }}<br>
+    {{ form_label(form.languages) }}<br>
+    {{ form_widget(form.languages) }}<br>
+    {{ form_label(form.country) }}<br>
+    {{ form_widget(form.country) }}<br>
+    {{ form_label(form.city) }}<br>
+    {{ form_widget(form.city) }}<br>
+    {{ form_label(form.live_in) }}<br>
+    {{ form_widget(form.live_in) }}<br>
+    {{ form_label(form.avatar) }}<br>
+    {{ form_widget(form.avatar) }}<br>
+    <button class="pe-savereset-elemt" type="submit">Save</button>
+    {{ form_rest(form) }}
+</form>

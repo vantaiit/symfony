@@ -1,0 +1,152 @@
+{% extends 'MYSiteBundle::layoutintro.html.twig' %}
+{% block site_styles %}
+    {{ parent() }}
+    <link href="{{ asset('assets/css/landing.css') }}" rel="stylesheet" />
+{% endblock %}
+
+{% block body %}
+    {% block model %}
+        <!-- Modal -->
+        <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="myModalLabel">Modal header</h3>
+            </div>
+            <div class="modal-body">
+                <p>One fine body…</p>
+            </div>
+
+        </div>
+    {% endblock %}
+    {% block wrapper %}
+        <div class="wrapper landing">
+        {% block header_wrap %}
+            <div class="header-wrap">
+                <div class="line-color"></div>
+                <div class="header clearfix">
+                    <div class="buttons">
+                        <button title="Sign in" class="big-button">Sign in</button>
+                        <div class="board-signin">
+                            <div class="board-signin-wrap">
+                                <span class="arrow"><i></i></span>
+                                <div class="signin-wrap">
+                                    <ul>
+                                        <li>
+                                            <div class="input-wrap">
+                                                <input type="email" placeholder="Email" />
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="input-wrap">
+                                                <input type="password" placeholder="Password" />
+                                            </div>
+                                        </li>
+                                        <li class="buttons-wrap clearfix">
+                                            <a href="javascript:void(0);" class="pw-forgot">Forgot your password ?</a>
+                                            <button class="big-button">Sign in</button>
+                                        </li>
+                                    </ul>
+                                    <div class="sign-in-openid clearfix">
+                                        <label>Login with OpenID:</label>
+                                        <div>
+                                            <a href="javascript:void(0);"><i class="i40 i40-fb"></i></a>
+                                            <a href="javascript:void(0);"><i class="i40 i40-tw"></i></a>
+                                            <a href="javascript:void(0);"><i class="i40 i40-gg"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- sign in wrap -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endblock %}
+        {% block main_wrapper %}
+            <div class="main-wrapper">
+                <div class="landing-main">
+                    <h2>“ The best way to have a good idea is to have a lot of ideas ”</h2>
+                    <p class="author">- Linus Pauling -</p>
+                    <div class="landing-reg">
+                        <ul>
+                            <li>
+                                <div class="input-wrap">
+                                    <input type="email" placeholder="Email" />
+                                </div>
+                            </li>
+                            <li>
+                                <div class="input-wrap">
+                                    <input type="text" placeholder="Username" />
+                                </div>
+                            </li>
+                            <li>
+                                <div class="input-wrap">
+                                    <input type="password" placeholder="Password" />
+                                </div>
+                            </li>
+                            <li class="policy">
+                                <input type="checkbox" />
+                                <label for="">Agree to our <a href="javascript:void(0);">terms of service</a> by signing up</label>
+                            </li>
+                            <li class="openid">
+                                <label>Or Sign up with OpenID</label>
+                                <div class="input-wrap">
+                                    <a href="javascript:void(0);"><i class="i40 i40-fb"></i></a>
+                                    <a href="javascript:void(0);"><i class="i40 i40-tw"></i></a>
+                                    <a href="javascript:void(0);"><i class="i40 i40-gg"></i></a>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="buttons">
+                            <button title="" class="big-button">Sign Up</button>
+                        </div>
+                    </div>
+                    <!-- landing register -->
+                </div>
+            </div>
+        {% endblock %}
+        {% block footer_wrapper %}
+            <div class="footer-wrapper">
+                <div class="footer clearfix">
+                    <span class="line"></span>
+                    <div class="left">
+                        <div class="logo">
+                            <a href="javascript:void(0);" title=""></a>
+                        </div>
+                        <!-- logo -->
+                        <div class="copyright">
+                            <p>COPYRIGHT © FLINTTER 2013</p>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li><a href="javascript:void(0);" title=""><i class="imed imed-fb"></i></a></li>
+                                <li><a href="javascript:void(0);" title=""><i class="imed imed-tw"></i></a></li>
+                                <li><a href="javascript:void(0);" title=""><i class="imed imed-gg"></i></a></li>
+                                <li><a href="javascript:void(0);" title=""><i class="imed imed-pin"></i></a></li>
+                                <li><a href="javascript:void(0);" title=""><i class="imed imed-rss"></i></a></li>
+                            </ul>
+                        </div>
+                        <!-- social buttons -->
+                    </div>
+                    <!-- left footer -->
+                    <div class="right">
+                        <div class="navi">
+                            <ul>
+                                <li><a href="javascript:void(0);" title="">About</a></li>
+                                <li><span class="sep"></span></li>
+                                <li><a href="javascript:void(0);" title="">Feedback</a></li>
+                                <li><span class="sep"></span></li>
+                                <li><a href="javascript:void(0);" title="">Term & Policy</a></li>
+                                <li><span class="sep"></span></li>
+                                <li><a href="javascript:void(0);" title="">Contact Us</a></li>
+                                <li><span class="sep"></span></li>
+                                <li><a href="javascript:void(0);" title="">Help</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endblock %}
+        </div>
+    {% endblock %}
+{% endblock %}

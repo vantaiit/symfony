@@ -1,0 +1,16 @@
+{% for entity in entities %}
+<div class="cont">
+    <div class="topic-bg">
+        <a href="#" title=""><img src="{{ asset('assets/demo/img-topic-001.jpg') }}" alt="" border=""/></a>
+        <a href="#" title="" class="title">
+            <span>{{ entity.name }}</span>
+        </a>
+    </div>
+</div>
+<div class="buttons">
+    <ul>
+        <li><a href="#" class="big-button big-red btn-follow" data-id="{{ entity.id }}"><i class="imed imed-flag"></i><span class="text">{{ entity.isBestTopic ? 'follow' : 'followed' }}</span></a></li>
+        <li><a href="#" class="big-button big-red" data-id="{{ entity.id }}"><i class="imed imed-pencil"></i><span class="text">Write Ideas</span></a></li>
+    </ul>
+</div>
+{% endfor %}

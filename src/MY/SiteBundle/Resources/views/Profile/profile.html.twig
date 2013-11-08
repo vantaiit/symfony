@@ -1,0 +1,57 @@
+{% extends 'MYSiteBundle::layout.html.twig' %}
+{% set wrapper_style_class = 'detail' %}
+{% set main_wrapper_style_class = 'page-profile-topics' %}
+
+{% block page_content %}
+<!-- main head -->
+    <div class="profile-info">
+        <div class="avatar">
+            <a href="#">
+                <img src="../assets/demo/img-avatar-004.jpg" alt="" border=""/>
+                <span class="name">{{ user.name }}</span>
+            </a>
+        </div>
+        <div class="profile-info-detail">
+            <div class="info-name">
+                <h3>{{ user.name }}</h3>
+                <p class="job">Composer</p>
+                <p class="des">“{{ user.description }}“</p>
+            </div>
+            <!-- Name & Title & Description -->
+            <div class="info-point">
+                <span class="point-icon"><i class="imed imed-diamond"></i></span>
+                <span class="point">{{ '5500.25155'|price(4, '.', ',') }}</span>
+            </div>
+            <!-- Points -->
+            <div class="info-nav">
+                <ul>
+                    <li><a href="#" class="" title="" ><i class="imed imed-message"></i></a></li>
+                    <li><a href="#" class="" title="" ><i class="imed imed-friend"></i></a></li>
+                    <li><a href="#" class="" title="" ><i class="imed imed-fighting"></i></a></li>
+                    <li><a href="#" class="" title="" ><i class="imed imed-setting"></i></a></li>
+                </ul>
+            </div>
+            <!-- Profile nav -->
+            <div class="info-stat">
+                <ul>
+                    <li><a href="#" class="" title="" ><i class="imed imed-friend-red"></i><span class="text">187 Mutual friends</span></a></li>
+                    <li><a href="#" class="" title="" ><i class="imed imed-idea"></i><span class="text">1000 Ideas</span></a></li>
+                    <li><a href="#" class="" title="" ><i class="imed imed-flag-red"></i><span class="text">1000 Follwer</span></a></li>
+                    <li><a href="#" class="" title="" ><i class="imed imed-coffee"></i><span class="text">189 Topics</span></a></li>
+                </ul>
+            </div>
+            <!-- profile stats -->
+        </div>
+        <!-- profile info detail -->
+    </div>
+    <!-- main content -->
+{% endblock %}
+
+{% block inline_scripts %}
+    <script type="text/javascript">
+        var app = {
+            deps: ['Application/Welcome']
+        }
+    </script>
+{% endblock %}
+

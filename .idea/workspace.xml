@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="update layout: add assets">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/BaseController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/CategoryController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/IdeaController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Form/Type/NoteType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/ProfileController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Form/Type/ProfileType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/RelationshipController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/SecurityController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/UserFollowTopicController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/UserLikeIdeaController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Extension/Utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Twig/Extension/Utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Category/create.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Category/getBestTopic.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Shared/header.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Shared/idea-single.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/UserFollowTopic/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/intro.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/landing.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/UserLikeIdea/like.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Security/login.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Shared/navigation.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/post.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/profile.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/update.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony.iws" />
@@ -18,7 +44,7 @@
     <file path="/home.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383230434827" ignored="false" />
     <file path="/back-to-top.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383229072619" ignored="false" />
     <file path="/index.html" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383240864699" ignored="false" />
-    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383927928394" ignored="false" />
+    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383928072480" ignored="false" />
     <file path="/a.dummy" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383908497738" ignored="false" />
     <file path="/dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383909020439" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +78,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.1824687">
+            <state line="12" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.3649374">
               <folding />
             </state>
           </provider>
@@ -170,6 +196,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SiteBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,12 +379,20 @@
       <created>1383927940646</created>
       <updated>1383927940646</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update layout: add assets">
+      <created>1383928002448</created>
+      <updated>1383928002448</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update layout: add assets">
+      <created>1383928054327</created>
+      <updated>1383928054327</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -312,7 +400,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2969697" sideWeight="0.6700855" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2969697" sideWeight="0.6700855" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -481,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.1824687">
+        <state line="12" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.3649374">
           <folding />
         </state>
       </provider>

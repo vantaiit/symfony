@@ -1,0 +1,32 @@
+<div id="modal-newtopic" class="pop-newpost ulti modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <form action="{{ path('_category_create') }}" method="post" id="form-newtopic" novalidate>
+        <div class="post active-tags">
+            {% set flashbag = app.session.flashbag.get('success') %}
+            {% if flashbag|length > 0 %}
+                <div class="alert alert-block alert-success">
+                    <ul>
+                        {% for flashMessage in flashbag %}
+                            <li>{{ flashMessage }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+            <div class="post-title">
+                {{ form_widget(form.name) }}
+                {{ form_errors(form.name) }}
+            </div>
+            <div class="post-text">
+                <div class="post-tab post-tags active">{{ form_widget(form.description) }}</div>
+                {{ form_errors(form.description) }}
+            </div>
+            <div class="post-foot">
+                <div class="buttons">
+                    <button class="big-button btn-cancel">Cancel</button>
+                    <button class="big-button btn-post">New Topic</button>
+                </div>
+            </div>
+        </div>
+        <!-- post -->
+        {{ form_rest(form) }}
+    </form>
+</div>

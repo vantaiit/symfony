@@ -1,0 +1,31 @@
+{% extends 'MYSiteBundle::layout.html.twig' %}
+{% block specific_plugin_styles %}
+<link href="{{ asset('assets/css/select2.css') }}" rel="stylesheet" />
+{% endblock %}
+{% block page_content %}
+    <!-- main head -->
+
+
+    <!-- main content -->
+{% endblock %}
+
+{% block inline_scripts %}
+    <script type="text/javascript">
+        var app = {
+            deps: ['Application/Homepage'],
+            init: function(page) {
+                $.each((page && page.events) || [], function(i, event) {
+                    if($.isFunction(event)) {
+                        event();
+                        $(document).trigger('loadMostTopic.content')
+                        $(document).trigger('loadBestTopic.content')
+                        $(document).trigger('userfollowtopic.content')
+                        $(document).trigger('postTag.content');
+                    } else {
+                        console.log('Event or component is malformed');
+                    }
+                });
+            }
+        }
+    </script>
+{% endblock %}
