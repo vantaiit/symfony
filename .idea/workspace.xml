@@ -1,34 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="update layout: add assets">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/BaseController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/CategoryController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/IdeaController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Form/Type/NoteType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/ProfileController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Form/Type/ProfileType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/RelationshipController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/SecurityController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/UserFollowTopicController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Controller/UserLikeIdeaController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Extension/Utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Twig/Extension/Utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Category/create.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Category/getBestTopic.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Shared/header.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Shared/idea-single.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/UserFollowTopic/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/intro.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/landing.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/layout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/UserLikeIdea/like.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Security/login.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Shared/navigation.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/post.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/profile.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Profile/update.html.twig" />
+    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/bg/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/amazon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/arrow-testimonials.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/arrow_left_bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/arrow_left_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/arrow_right_bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/arrow_right_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/bg8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/black-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_1_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_2_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_3_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_4_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_5_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_6_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_7_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/clients/client_8_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/close-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/carousel/corners-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/carousel/corners-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/carousel/corners-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/carousel/corners-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/corners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/evernote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/forrst.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/googleplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint1-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint1-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint1-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint1-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint2-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint2-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint2-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/hint2-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icon-color-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icon-color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img1-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/pics/img1-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/pics/img1-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img1-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/posts/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/works/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img2-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/pics/img2-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/pics/img2-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img2-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/posts/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/works/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img3-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img3-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/posts/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/works/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img4-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img4-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/works/img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img5-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/people/img5-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/works/img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/works/img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/photos/img9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/ipadmini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/iphone_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/iphone_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/iphone_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/jolicloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/last-fm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/left-blue-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/left-green-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/left-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/left-orange-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/left-red-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/logo_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/logo_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/logo_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/logo_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/mac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/man-winner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/steps/one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/pintrest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/right-blue-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/right-green-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/right-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/right-orange-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/bxslider/right-red-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/spotify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/syncfusion-icons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/syncfusion-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/steps/three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/thumbs/thumb7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/steps/two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/steps/two_bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/sliders/revolution/woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/xing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/img/icons/social/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/header.html.twig" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-below.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-info.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-landing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-sub-newpost.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-subboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-subsign.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\bg-tags.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\cb-controls.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-avatar-001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-avatar-002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-avatar-003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-topic-001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-topic-002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-topic-003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\img-topic-004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\line-top.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\select2-spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\select2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\sprites.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\tab-corner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\symfony\web\public\assets\img\topic-nav.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony.iws" />
@@ -39,14 +192,15 @@
     <file path="$PROJECT_DIR$/app/cache/dev/twig/c3/48/77f318e5f183c45aea01819298ba4cb52ef297d0803c173583a8c291e5c4.php" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383149551628" ignored="false" />
     <file path="/base.html.twig" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383242320369" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/twig/72/20/15d600bba1d40b61cd00bef087ad9ee343de018f88f07343e61488e79a40.php" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383154647324" ignored="false" />
-    <file path="/layout.html.twig" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383274405083" ignored="false" />
+    <file path="/layout.html.twig" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383928425013" ignored="false" />
     <file path="/main.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383232474206" ignored="false" />
     <file path="/home.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383230434827" ignored="false" />
     <file path="/back-to-top.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383229072619" ignored="false" />
     <file path="/index.html" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383240864699" ignored="false" />
-    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383928072480" ignored="false" />
+    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383928092881" ignored="false" />
     <file path="/a.dummy" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383908497738" ignored="false" />
     <file path="/dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383909020439" ignored="false" />
+    <file path="/header.html.twig" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383928453066" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,16 +223,45 @@
       <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="25" selection-start="2977" selection-end="2977" vertical-scroll-proportion="-4.745098">
+            <state line="58" column="24" selection-start="2992" selection-end="3008" vertical-scroll-proportion="-5.0784316">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.3649374">
+            <state line="5" column="22" selection-start="215" selection-end="215" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="4" selection-start="162" selection-end="194" vertical-scroll-proportion="-3.9230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html.twig" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/header.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="38" selection-start="144" selection-end="144" vertical-scroll-proportion="0.13076924">
+              <folding>
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -115,7 +298,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/MY/AdminBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/web/bundles/myadmin/index.html" />
         <option value="$PROJECT_DIR$/src/MY/AdminBundle/Resources/views/base.html.twig" />
@@ -128,9 +310,10 @@
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig" />
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/header.html.twig" />
       </list>
     </option>
   </component>
@@ -209,6 +392,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -232,6 +433,92 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SiteBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SiteBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Twig" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extension" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SiteBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SiteBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,15 +583,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\symfony\web\public\assets" />
       <recent name="C:\xampp\htdocs\symfony\web\public\assets\js\apps" />
       <recent name="C:\xampp\htdocs\symfony\web\public\assets\js" />
-      <recent name="C:\xampp\htdocs\symfony\web\public\assets" />
       <recent name="C:\xampp\htdocs\symfony\web\bundles\myadmin\assets\plugins" />
       <recent name="C:\xampp\htdocs\symfony\web\bundles\myadmin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\symfony\web\public\assets\js" />
       <recent name="C:\xampp\htdocs\symfony\src\MY\SiteBundle\Resources\views" />
+      <recent name="C:\xampp\htdocs\symfony\web\public\assets\js" />
       <recent name="C:\xampp\htdocs\symfony\web\bundles\myadmin\assets\plugins\bootstrap" />
       <recent name="C:\xampp\htdocs\symfony\web\public\assets\js\vendor" />
       <recent name="C:\xampp\htdocs\symfony\web\public\assets" />
@@ -387,14 +674,18 @@
       <created>1383928054327</created>
       <updated>1383928054327</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update layout: add assets">
+      <created>1383928110180</created>
+      <updated>1383928110180</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -403,9 +694,9 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2969697" sideWeight="0.6700855" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -413,7 +704,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -480,14 +771,11 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/SOFT/template admin/metronic1.4/admin/template_content/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2724" column="26" selection-start="97630" selection-end="97630" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" />
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig">
@@ -520,21 +808,9 @@
         <state line="14" column="31" selection-start="359" selection-end="370" vertical-scroll-proportion="0.38273922" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.core.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.0">
           <folding />
         </state>
       </provider>
@@ -546,23 +822,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="19" selection-start="989" selection-end="989" vertical-scroll-proportion="-17.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/public/assets/js/apps/main/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="25" selection-start="2977" selection-end="2977" vertical-scroll-proportion="-4.745098">
           <folding />
         </state>
       </provider>
@@ -571,6 +833,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.3649374">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="24" selection-start="2992" selection-end="3008" vertical-scroll-proportion="-5.0784316">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="215" selection-end="215" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="162" selection-end="194" vertical-scroll-proportion="-3.9230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/header.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="38" selection-start="144" selection-end="144" vertical-scroll-proportion="0.13076924">
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
