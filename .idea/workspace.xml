@@ -1,257 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;assets/js/apps/main/main.js&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/1_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/1_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/2_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/2_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/3_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/3_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/4_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/4_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/5_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/5_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrow_large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrow_large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/images/bg-input-focus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/images/bg-input.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/bgtile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/black50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/bullet_bk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/bullets.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/images/bx_loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/images/decor_inside.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/images/decor_inside_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/images/decor_testimonial.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/divider.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/dragnotch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/dragsliderbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/dropdown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/helpers/fancybox_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/images/gradient/g30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/images/gradient/g40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/grain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/inputfield.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/large_left_bk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/large_right_bk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/images/left-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/images/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/loader2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/minishadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/minishadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/minishadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/no.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/radio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/images/right-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/images/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/rotator-line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/rotator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/shadow3_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/images/tiles/sliderconfigheadline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/small_arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/images/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/images/sprite_original.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/timerdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/transparent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/assets/white50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/CHANGELOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/binding/Editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/EventSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/FacebookSDK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/GeometrySpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/Homepage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/LayerSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/MapSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/MarkerSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/OverlaySpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/README.textile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/RouteSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/utility/Spirit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/StreetViewSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/spec/StyleSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/Welcome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_extras.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/ajax.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/themes/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/context_menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/custom_controls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/components/content/editable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/elevation_locations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/elevation_routes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/module/content/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/shared/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/examples.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/extras.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/font-awesome-ie7.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/fusion_tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/geocoding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/geofences.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/geolocation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/geometry.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.controls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.geofences.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.geometry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/gmaps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.layers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.map_types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.markers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.native_extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.overlays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.static.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.streetview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/lib/gmaps.utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/themes/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/hover-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/index-fullwidth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/index-static.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/lib/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/lib/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/test/lib/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/jquery-1.10.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/lib/jquery-1.8.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/jquery.bxslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/jquery.bxslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/bxslider/jquery.bxslider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/helpers/jquery.fancybox-media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/jquery.fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/jquery.fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/source/jquery.fancybox.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/jquery.mixitup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/jquery.uniform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/jquery.uniform.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/kml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/layers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/layers_places.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/map_events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/map_types.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/marker_clusterer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/markers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/themes/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/application/components/overlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/overlay_map_types.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/overlays.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/polygons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/polylines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/pages/portfolio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/previewjs/preview-normal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/css/preview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/pages/prices.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/themes/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/routes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/routes_advanced.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/css/rs-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/css/settings (In Konflikt stehende Kopie von Flash Horvath 2013-02-13).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/revolution_slider/rs-plugin/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/static.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/static_markers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/static_polylines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/style-metro.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/css/style-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/styled_maps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/gmaps/examples/travel_route.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/css/uniform.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/css/uniform.default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/uniform/css/uniform.default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/assets/plugins/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/assets/js/apps/main/main.js" afterPath="$PROJECT_DIR$/web/public/assets/js/apps/main/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/assets/css/style.css" afterPath="$PROJECT_DIR$/web/public/assets/css/style.css" />
+    <list default="true" id="dc826752-497b-430c-ac07-ae7882dc980d" name="Default" comment="update layout: add assets">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony.iws" />
@@ -267,7 +18,7 @@
     <file path="/home.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383230434827" ignored="false" />
     <file path="/back-to-top.js" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383229072619" ignored="false" />
     <file path="/index.html" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383240864699" ignored="false" />
-    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383925950344" ignored="false" />
+    <file path="/Dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383927762438" ignored="false" />
     <file path="/a.dummy" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383908497738" ignored="false" />
     <file path="/dummy.txt" changelist="dc826752-497b-430c-ac07-ae7882dc980d" time="1383909020439" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -289,10 +40,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="base.html.twig" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="39" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.4527163">
+            <state line="57" column="25" selection-start="2977" selection-end="2977" vertical-scroll-proportion="-4.745098">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="7" selection-start="146" selection-end="146" vertical-scroll-proportion="0.15205725">
               <folding />
             </state>
           </provider>
@@ -329,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/web/public/assets/js/main.js" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/MY/AdminBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/web/bundles/myadmin/index.html" />
@@ -345,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/Default/layout.html.twig" />
         <option value="$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -396,224 +156,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MY" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -723,19 +265,28 @@
       <created>1383911502283</created>
       <updated>1383911502283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update layout: add assets">
+      <created>1383927416384</created>
+      <updated>1383927416384</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update layout: add assets">
+      <created>1383927749854</created>
+      <updated>1383927749854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2969697" sideWeight="0.6700855" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2969697" sideWeight="0.6700855" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -745,7 +296,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -794,7 +344,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;assets/js/apps/main/main.js&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="update layout: add assets" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -810,18 +360,12 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="update  flinter" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;assets/js/apps/main/main.js&#10;" />
+    <MESSAGE value="update layout: add assets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="2315" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/SOFT/template admin/metronic1.4/admin/template_content/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2724" column="26" selection-start="97630" selection-end="97630" vertical-scroll-proportion="0.0" />
@@ -904,7 +448,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MY/SiteBundle/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="39" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.4527163">
+        <state line="57" column="25" selection-start="2977" selection-end="2977" vertical-scroll-proportion="-4.745098">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="146" selection-end="146" vertical-scroll-proportion="0.15205725">
           <folding />
         </state>
       </provider>
